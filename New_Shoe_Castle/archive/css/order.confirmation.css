@@ -1,0 +1,47 @@
+/* Reset default margin and padding for the page */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Container for confirmation message and order details */
+.confirmation-container {
+    margin: 20px;
+    text-align: center;
+}
+
+/* Confirmation message */
+.confirmation-container h2 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+/* Order details */
+.order-details {
+    margin: 20px auto;
+    max-width: 300px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.order-details h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.order-details ul {
+    list-style: none;
+}
+
+.order-details li {
+    font-size: 14px;
+    margin: 5px 0;
+}

@@ -1,0 +1,101 @@
+/* Reset some default styling */
+body, h1, h2 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.product-list, .add-product {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.product-list {
+    max-width: 600px;
+}
+
+.add-product {
+    max-width: 400px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+label, input {
+    display: block;
+    margin: 10px 0;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+/* Style form elements */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+}
+
+input, button {
+    margin: 5px 0;
+}
+
+/* Style the form for adding products */
+.add-product form {
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+.add-product h2 {
+    margin-bottom: 10px;
+}
+
+.add-product button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.add-product button:hover {
+    background-color: #555;
+}

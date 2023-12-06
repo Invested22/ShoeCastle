@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Summary</title>
+    <link rel="stylesheet" href="css/ShoppingCart.css"> 
+    <link rel="stylesheet" href="css/home.css">
+</head>
+<body>
+    <nav class="navbar"></nav>
+    <script src="js/nav.js"></script>
+
+    <header>
+        <h1>Your Shopping Cart</h1>
+    </header>
+
+    <div class="cart-container">
+        <div class="cart-item">
+            <img src="img/card1.png" alt="Product 1">
+            <div class="product-details">
+                <h2>Product 1</h2>
+                <p>Price: $19.99</p>
+                <p>Quantity: <input type="number" value="1"></p>
+                <p>Total: $19.99</p>
+                <button class="remove-button">Remove</button>
+            </div>
+        </div>
+
+        <!-- Add more cart items as needed -->
+
+        <div class="cart-summary">
+            <h2>Cart Summary</h2>
+            <p>Total Items: 3</p>
+            <p>Subtotal: $59.97</p>
+            <p>Tax (8.25%): $4.94</p>
+            <p>Total Price: $64.91</p>
+        </div>
+    </div>
+
+    <div class="checkout-button">
+        <a href="Checkout.html"><button>Proceed to Checkout</button></a>
+    </div>
+
+    <script src="js/ShoppingCart.js"></script> 
+    <footer></footer>
+    <script src="js/footer.js"></script>
+    <script src="js/home.js"></script>
+
+</body>
+</html>

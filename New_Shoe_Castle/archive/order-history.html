@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/order-history.css"> <!-- Link to your CSS file for styling -->
+    <link rel="stylesheet" href="css/home.css">
+
+    <title>Order History</title>
+</head>
+<body>
+    <nav class="navbar"></nav>
+
+    <header>
+        <h1>Order History</h1>
+    </header>
+
+    <section class="order-history">
+        <h2>Order History</h2>
+        <div class="sorting-options">
+            <label for="sort-by">Sort By:</label>
+            <select id="sort-by">
+                <option value="order-date">Order Date</option>
+                <option value="customer">Customer</option>
+                <option value="order-size">Order Size ($)</option>
+            </select>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Order Date</th>
+                    <th>Customer</th>
+                    <th>Order Size ($)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Display order history information here -->
+                <tr>
+                    <td>2023-01-15</td>
+                    <td>John Doe</td>
+                    <td>$125.50</td>
+                </tr>
+                <!-- Add more order rows as needed -->
+            </tbody>
+        </table>
+    </section>    
+    <footer></footer>
+
+    <script src="js/nav.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/home.js"></script>
+    <script src="js/order-history.js"></script>
+</body>
+</html>

@@ -1,0 +1,75 @@
+/* Reset default margin and padding for the page */
+body, h1, h2, p, label, input, button {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Container for checkout sections */
+.checkout-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+/* Shipping information section */
+.shipping-info, .payment-info, .order-review {
+    flex: 1;
+    padding: 10px;
+}
+
+.shipping-info h2, .payment-info h2, .order-review h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+form {
+    margin-top: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+/* Payment information section */
+.payment-info label {
+    margin-bottom: 5px;
+}
+
+/* Order review section */
+.order-review ul {
+    list-style: none;
+    margin-left: 0;
+}
+
+.order-review li {
+    margin-bottom: 5px;
+}
+
+/* Checkout and confirm button */
+.confirm-button {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.continue-button, .review-button, button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}

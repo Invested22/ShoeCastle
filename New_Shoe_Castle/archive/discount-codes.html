@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discount Code Management</title>
+    <link rel="stylesheet" href="css/discount-codes.css"> <!-- Link to your CSS file for admin styling -->
+    <link rel="stylesheet" href="css/home.css">
+</head>
+<body>
+    <nav class="navbar"></nav>
+    <header>
+        <h1>Discount Code Management</h1>
+    </header>
+
+    <section class="discount-code-list">
+        <h2>Discount Codes</h2>
+        <!-- Display a list of discount codes with details -->
+        <ul>
+            <!-- Display discount code information here -->
+            <li>CODE123 - 10% off</li>
+            <!-- Add more discount code items as needed -->
+        </ul>
+    </section>
+    <section class="add-discount-code">
+        <h2>Add Discount Code</h2>
+        <form id="discount-code-form">
+            <label for="discount-code">Code:</label>
+            <input type="text" id="discount-code" name="discount-code" required>
+
+            <label for="discount-amount">Discount Amount:</label>
+            <input type="number" id="discount-amount" name="discount-amount" step="0.01" required>
+
+            <button type="submit">Add Discount Code</button>
+        </form>
+    </section>
+    <footer></footer>
+
+    <script src="js/nav.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/home.js"></script>
+    <script src="js/discount-codes.js"></script> <!-- Link to your JavaScript file for discount code management -->
+</body>
+</html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="jquery-3.4.1.min.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133447260550488268" remote="133447273180000000" Dst="1" />
+<file name="popper.min.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133447260551122586" remote="133447273190000000" Dst="1" />
+<file name="nav.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437782707" remote="133447273180000000" Dst="1" />
+<file name="footer.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223438062243" remote="133447273170000000" Dst="1" />
+<file name="home.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437062887" remote="133447273170000000" Dst="1" />
+<file name="product.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437645382" remote="133447273190000000" Dst="1" />
+<file name="checkout.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223438203586" remote="133447273170000000" Dst="1" />
+<file name="discount_codes.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223436634512" remote="133447273170000000" Dst="1" />
+<file name="order_history.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437922602" remote="133447273180000000" Dst="1" />
+<file name="placed_orders.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437209890" remote="133447273190000000" Dst="1" />
+<file name="product_management.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223436479960" remote="133447273190000000" Dst="1" />
+<file name="sales_tems.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223436931697" remote="133447273190000000" Dst="1" />
+<file name="search_results.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437503107" remote="133447273200000000" Dst="1" />
+<file name="shopping_cart.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223436780771" remote="133447273200000000" Dst="1" />
+<file name="user_management.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437361278" remote="133447273200000000" Dst="1" />
+<file name="sign_up.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133447288845176885" remote="133447288900000000" Dst="1" />
+<file name="bootstrap.js" server="ec2-3-134-245-99.us-east-2.compute.amazonaws.com//var/www/html/" local="133447279315360693" remote="133447296200000000" Dst="1" />
+<file name="jquery-3.4.1.min.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133447260550488268" remote="133449983660000000" Dst="1" />
+<file name="popper.min.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133447260551122586" remote="133449983660000000" Dst="1" />
+<file name="bootstrap.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133447279315360693" remote="133449983660000000" Dst="1" />
+<file name="nav.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133457014290000000" remote="133457014290000000" Dst="1" />
+<file name="footer.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223438062243" remote="133449983720000000" Dst="1" />
+<file name="home.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437062887" remote="133449983730000000" Dst="1" />
+<file name="checkout.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223438203586" remote="133449983750000000" Dst="1" />
+<file name="discount_codes.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223436634512" remote="133449983830000000" Dst="1" />
+<file name="bootstrap.min.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133447279315663368" remote="133449983940000000" Dst="1" />
+<file name="npm.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133447279315849402" remote="133449983940000000" Dst="1" />
+<file name="order_history.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437922602" remote="133449983950000000" Dst="1" />
+<file name="placed_orders.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437209890" remote="133449983950000000" Dst="1" />
+<file name="product.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133454543650000000" remote="133454543650000000" Dst="1" />
+<file name="product_management.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223436479960" remote="133449983950000000" Dst="1" />
+<file name="sales_tems.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223436931697" remote="133449983950000000" Dst="1" />
+<file name="search_results.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437503107" remote="133449983960000000" Dst="1" />
+<file name="shopping_cart.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223436780771" remote="133449983960000000" Dst="1" />
+<file name="sign_up.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133450838090456915" remote="133450838140000000" Dst="1" />
+<file name="user_management.js" server="ec2-18-189-26-34.us-east-2.compute.amazonaws.com//var/www/html/" local="133442223437361278" remote="133449983960000000" Dst="1" />
+</dwsync>

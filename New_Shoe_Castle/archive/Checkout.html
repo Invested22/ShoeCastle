@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout</title>
+    <link rel="stylesheet" href="css/Checkout.css"> 
+    <link rel="stylesheet" href="css/home.css">
+</head>
+<body>
+    <nav class="navbar"></nav>
+    <header>
+        <h1>Checkout</h1>
+    </header>
+
+    <div class="checkout-container">
+        <section class="shipping-info">
+            <h2>Shipping Information</h2>
+            <form>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="address">Address:</label>
+                <input type="text" id="address" name="address" required>
+
+                <label for="city">City:</label>
+                <input type="text" id="city" name="city" required>
+
+                <label for="zip">ZIP Code:</label>
+                <input type="text" id="zip" name="zip" required>
+
+                <!-- Add more shipping information fields as needed -->
+
+                <button class="continue-button">Continue</button>
+            </form>
+        </section>
+
+        <section class="payment-info">
+            <h2>Payment Information</h2>
+            <form>
+                <label for="card-number">Card Number:</label>
+                <input type="text" id="card-number" name="card-number" required>
+
+                <label for="expiration">Expiration Date:</label>
+                <input type="text" id="expiration" name="expiration" required>
+
+                <label for="cvv">CVV:</label>
+                <input type="text" id="cvv" name="cvv" required>
+
+                <!-- Add more payment information fields as needed -->
+
+                <button class="review-button">Review Order</button>
+            </form>
+        </section>
+
+        <section class="order-review">
+            <h2>Order Review</h2>
+            <ul>
+                <li>Product 1: $19.99</li>
+                <li>Product 2: $24.99</li>
+                <!-- Add more ordered items as needed -->
+                <!-- This is static needs backend, dynamic html, and database-->
+            </ul>
+            <p>Subtotal: $44.98</p>
+            <p>Tax (8.25%): $3.71</p>
+            <p>Total Price: $48.69</p>
+        </section>
+    </div>
+
+    <div class="confirm-button">
+        <a href="order-confirmation.html"><button>Confirm Purchase</button></a>
+    </div>
+    <footer></footer>
+
+    <script src="js/Checkout.js"></script> 
+    <script src="js/nav.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/home.js"></script>
+</body>
+</html>
